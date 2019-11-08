@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Data Yarns</title>
-    <link>https://datayarns.github.io/authors/</link>
-      <atom:link href="https://datayarns.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://datayarns.github.io/img/logo.png</url>
+      <url>/img/logo.png</url>
       <title>Authors</title>
-      <link>https://datayarns.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://datayarns.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://datayarns.github.io/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;We are a small team of research consultants with a passion for applied and critical research on social and economic development. We operate in the space between social science, data science and program evaluation to help individuals and organizations make sense of what they do to support planning and positive change. We do so by adapting cutting edge data collection and analysis tools to the needs of our clients which are informed by the social, cultural and economic realities in which they and their target audiences operate. We believe that international organisations can do and should do more to listen to, make sense of and communicate the voices of those whom they ultimately wish to serve.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>https://datayarns.github.io/authors/robert-ford/</link>
+      <link>/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://datayarns.github.io/authors/robert-ford/</guid>
+      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     

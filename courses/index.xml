@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Data Yarns</title>
-    <link>https://datayarns.github.io/courses/</link>
-      <atom:link href="https://datayarns.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>/courses/</link>
+      <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language>
     <image>
-      <url>https://datayarns.github.io/img/logo.png</url>
+      <url>/img/logo.png</url>
       <title>Courses</title>
-      <link>https://datayarns.github.io/courses/</link>
+      <link>/courses/</link>
     </image>
     
   </channel>
