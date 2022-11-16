@@ -1,0 +1,134 @@
+/*NiceFrame START*/
+ /*START PUBLISHMODE*/
+
+#stacks_in_3 .niceframe-outer {
+	margin-left: auto; margin-right: auto; 
+	overflow: hidden; 
+		
+	/*customcss;*/
+} 
+
+/*LINK*/
+#stacks_in_3 .niceframe-linker {
+	text-align: left !important; 
+}
+
+#stacks_in_3 .niceframe-linker a:link {
+	margin-left:auto; margin-right:auto;
+	font-size: 10px !important; 
+	color: #000000 !important; 
+	text-decoration: none !important;
+	line-height: 120%;
+	/*padding-right: 30px;*/
+	} 
+#stacks_in_3 .niceframe-linker a:visited {
+	color: #000000 !important; 
+	}
+#stacks_in_3 .niceframe-linker a:hover {
+	color: #141414 !important; 
+	}
+/*END LINK*/
+
+html, body {
+	
+		 
+			overflow:hidden;
+		 
+	
+}
+
+/*IFRAME DIV*/
+#stacks_in_3 .niceframe {
+	
+		height: calc( 102vh - 350px );
+	
+
+	
+
+	
+	
+ overflow: hidden !important; 
+/*customcss;*/
+}
+
+ /*END PUBLISHMODE*/
+/*END IFRAME DIV*/
+
+#stacks_in_3 .niceframe iframe { }
+#stacks_in_3 .nice_frame { }
+
+/*SCROLLBARS WEBKIT*/
+
+	#stacks_in_3 .niceframe iframe::-webkit-scrollbar
+	{ 
+		-webkit-apperance: none;
+		width:  40px;
+		height:  40px;
+		background-color: #177BEC;
+		-webkit-overflow-scrolling: touch	}
+#stacks_in_3 .niceframe iframe::-webkit-scrollbar-thumb
+	{
+	border-radius: 0px;
+	border: 0px solid #177BEC;
+	background-color: #000000;
+}
+
+/*END SCROLLBARS*/
+
+
+/*EDITMODE*/
+.editmode_iframe {
+	background: url(../files/iframeviewporticon.png) no-repeat center center;
+	height: 180px;
+	text-align:center;
+	vertical-align: bottom;
+	margin-bottom: -15px;
+	font: 9px "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+/*END EDITMODE*/
+
+/*Chrome ViewPortHeight & Calc fix*/
+
+
+/*TARGET IPAD AND BELOW*/
+
+@media only screen and (max-width: 1024px) {
+#stacks_in_3 .niceframe {
+/*problem with safari 9 when overflow-y is turned on. Note: 10-2015*/
+overflow-y: scroll; /*margin-right: -15px;*/ -webkit-overflow-scrolling: touch;
+}}
+
+
+
+@media only screen and (max-width: 800px) {
+	#stacks_in_3 .niceframe {	
+			overflow-y: scroll !important;
+		
+	
+}
+#stacks_in_3 .niceframe iframe {
+-webkit-overflow-scrolling: touch
+/*customcss;*/
+}
+}
+
+@media only screen and (max-width: 400px) {
+	#stacks_in_3 .niceframe {
+			overflow-y: scroll !important;
+	
+	
+}
+#stacks_in_3 .niceframe iframe {
+/*customcss;*/
+}
+}
+
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+  #stacks_in_3 .niceframe { margin-right: 0px !important; } /* your css rules for ipad portrait */
+}
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
+  #stacks_in_3 .niceframe { margin-right: 0px !important; } /* your css rules for ipad landscape */
+}
+
+/*END TARGET IPAD AND BELOW*/
+/*NiceFrame END*/
