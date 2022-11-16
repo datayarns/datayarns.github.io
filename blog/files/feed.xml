@@ -11,5 +11,5 @@
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
-<lastBuildDate>Wed, 16 Nov 2022 15:37:47 +0000</lastBuildDate><item><title>test</title><dc:subject>Blog</dc:subject><dc:date>2022-11-16T15:30:03+00:00</dc:date><link>https://datayarns.github.io/blog/files/9d58a8a179ffa160c971aa05a5681c2d-0.html#unique-entry-id-0</link><guid isPermaLink="true">https://datayarns.github.io/blog/files/9d58a8a179ffa160c971aa05a5681c2d-0.html#unique-entry-id-0</guid><content:encoded><![CDATA[<span style="font:12px Helvetica, Arial, Verdana, sans-serif; ">Something or another</span>]]></content:encoded></item></channel>
+<lastBuildDate>Wed, 16 Nov 2022 16:03:21 +0000</lastBuildDate><item><title>test</title><dc:subject>Blog</dc:subject><dc:date>2022-11-16T15:30:03+00:00</dc:date><link>https://datayarns.github.io/blog/files/9d58a8a179ffa160c971aa05a5681c2d-0.html#unique-entry-id-0</link><guid isPermaLink="true">https://datayarns.github.io/blog/files/9d58a8a179ffa160c971aa05a5681c2d-0.html#unique-entry-id-0</guid><content:encoded><![CDATA[<span style="font:12px Helvetica, Arial, Verdana, sans-serif; ">Something or another. This and that</span>]]></content:encoded></item></channel>
 </rss>
