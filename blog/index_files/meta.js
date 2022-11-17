@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"archive-november-2022.html":"Archives for November 2022","9d58a8a179ffa160c971aa05a5681c2d-0.html":"Something or another. This and that"};
+	var websiteMeta = {"9d58a8a179ffa160c971aa05a5681c2d-0.html":" This and that.","archive-november-2022.html":"Archives for November 2022","2f202c5b4a0cbe2e8f5d5b091c5df374-1.html":"Something or other."};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
